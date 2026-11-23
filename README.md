@@ -39,9 +39,9 @@ I also build and evaluate machine learning models. I use confusion matrices to u
 
 ### Selected work
 
-- **[BioSetLab Workbench](https://github.com/Berkayaydinn/biosetlab-workbench)** · During my internship, I connected an AI workflow-generation API to a biomedical analysis editor. Using React Flow and Zustand, I made generated workflows editable so users could inspect each step and adjust the connections before execution.
+- **[BioSetLab Workbench](https://github.com/Berkayaydinn/biosetlab-workbench)** · A research project on generating biomedical analysis workflows from natural language. I connected the workflow-generation API to a React Flow editor and used Zustand to manage graph state, so researchers could inspect and edit each step before running an analysis.
 - **[Machine Learning Experiments](https://github.com/Berkayaydinn/machine-learning-experiments)** · Four experiments in classification and regression. I analyzed Gaussian Naive Bayes errors on 300 CIFAR-10 images, explored logistic regression and convolutional networks, and tested how a custom loss function affected vehicle-price predictions.
-- **[Nuvio AI](https://github.com/kanikeliff/Mental-health-app)** · I developed and tested FastAPI endpoints for our team's iOS app, covering assessment scoring, weekly mood summaries, and report generation. All 23 backend tests passed on my branch, and I verified authenticated report writes with the Firebase emulators. [Backend pull request](https://github.com/kanikeliff/Mental-health-app/pull/2)
+- **[Nuvio AI](https://github.com/kanikeliff/Mental-health-app)** · Our team built an iOS app for mood tracking and mental health assessments. We used FastAPI and Firebase to score assessments, summarize weekly mood entries, and save reports to each user's account. All 23 backend tests passed, and we verified report creation and storage with the Firebase emulators.
 - **Mirabito Wholesale Billing Portal** · Our team built a portal for Mirabito to review fuel deliveries against their bills of lading. I worked on PostgreSQL schemas, migrations, and constraints that link billing records to source documents and reviewer decisions. I also tested the database and helped deploy the portal on Railway.
 
 ---
