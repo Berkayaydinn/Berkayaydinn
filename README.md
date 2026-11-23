@@ -21,7 +21,6 @@ I also build and evaluate machine learning models. I use confusion matrices to u
 ![Python](https://img.shields.io/badge/Python-202B3C?style=flat-square&logo=python&logoColor=78DCE8)
 ![Java](https://img.shields.io/badge/Java-202B3C?style=flat-square&logo=openjdk&logoColor=78DCE8)
 ![SQL](https://img.shields.io/badge/SQL-202B3C?style=flat-square&logo=postgresql&logoColor=78DCE8)
-![JavaScript](https://img.shields.io/badge/JavaScript-202B3C?style=flat-square&logo=javascript&logoColor=78DCE8)
 
 **Backend & data**
 
