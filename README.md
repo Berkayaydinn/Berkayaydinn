@@ -26,7 +26,6 @@ I also build and evaluate machine learning models. I use confusion matrices to u
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-202B3C?style=flat-square&logo=fastapi&logoColor=78DCE8)
 ![Django](https://img.shields.io/badge/Django-202B3C?style=flat-square&logo=django&logoColor=78DCE8)
-![Node.js](https://img.shields.io/badge/Node.js-202B3C?style=flat-square&logo=nodedotjs&logoColor=78DCE8)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-202B3C?style=flat-square&logo=postgresql&logoColor=78DCE8)
 ![MongoDB](https://img.shields.io/badge/MongoDB-202B3C?style=flat-square&logo=mongodb&logoColor=78DCE8)
 ![Docker](https://img.shields.io/badge/Docker-202B3C?style=flat-square&logo=docker&logoColor=78DCE8)
