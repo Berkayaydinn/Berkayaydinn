@@ -8,12 +8,11 @@ Computer Science @ Binghamton University
 
 *I enjoy building reliable backend services, designing data models, and connecting software with machine learning.*
 
-### A little about me
+### About me
 
-- 🔧 Interested in **backend architecture**, **API development**, and maintainable software.
-- 🗄️ Work with **relational and document databases**, from data modeling to application integration.
-- 🧠 Explore **applied machine learning** and intelligent workflow systems.
-- 📚 Always learning more about system design, distributed services, and software reliability.
+I'm a computer science student at Binghamton University focused on backend engineering and databases. I work with Python, Java, and SQL to build APIs, model data, and test how services behave when their dependencies fail.
+
+My recent work includes PostgreSQL schema and migration work for a wholesale billing portal and Firebase-backed API development and testing for Nuvio AI. I'm interested in backend and data infrastructure roles.
 
 ### Tech toolbox
 
@@ -39,9 +38,9 @@ Computer Science @ Binghamton University
 
 ### Selected work
 
-- **[Statropolis](https://github.com/Berkayaydinn/statropolis)**: a React and Node.js application exploring simulation and recommendations with PostgreSQL-backed data.
-
-*Additional backend, database, and machine learning projects are being prepared for public release.*
+- **[Nuvio AI](https://github.com/kanikeliff/Mental-health-app)** · Team-built iOS app with a FastAPI backend, Firebase Auth, and Firestore. I worked on backend endpoints and Firebase integration. My [backend PR](https://github.com/kanikeliff/Mental-health-app/pull/2) covers assessment scoring, weekly mood summaries, and report persistence. All 23 backend tests passed on the branch, and I verified report creation and persistence with the Firebase emulators.
+- **[Statropolis](https://github.com/Berkayaydinn/statropolis)** · A browser-based nation simulation built with React, Node.js, and PostgreSQL, with an investment recommendation feature.
+- **Wholesale Billing Portal** · Industry-sponsored capstone for reviewing fuel delivery records. I contributed to the PostgreSQL schema, migrations, constraints, and database testing.
 
 ---
 
